@@ -1,3 +1,3 @@
 # Installations
-### [Tomcat Installation on Amazon-Linux-2](https://github.com/sampathshivakumar/Installations/Tomcat Installation on Amazon-Linux-2.md)
+### Tomcat Installation on Amazon-Linux-2
 ### Jenkins Installation on Amazon-Linux-2
