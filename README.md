@@ -1,3 +1,3 @@
 # Installations
-### [Tomcat Installation on Amazon-Linux-2](Installations/blob/main/Tomcat Installation on Amazon-Linux-2.md)
+### Tomcat Installation on Amazon-Linux-2
 ### Jenkins Installation on Amazon-Linux-2
